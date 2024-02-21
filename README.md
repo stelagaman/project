@@ -1,2 +1,3 @@
-# project
-first project
+# Git and GitHub
+
+crach course
